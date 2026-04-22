@@ -1,4 +1,4 @@
-# tesla_intelligent_assistant
+# Tesla_intelligent_assistant
 
 基于 FastAPI 的 Tesla 中国 Fleet API 集成服务，提供 OAuth 认证、车辆控制、行程分析及 AI 智能对话功能。
 
